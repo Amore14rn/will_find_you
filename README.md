@@ -10,11 +10,11 @@ Fear not, for these broken social media hijack issues are often deemed worthy of
 
 
 ``` bash
-_______           __       
-/ ____(_)___  ____/ /
-/ /_  / / __ \/ __  /   
-/ __/ / / / / / /_/ /      
-/_/   /_/_/ /_/\__,_/  (c) Amore14rn
+     _______           __       
+    / ____(_)___  ____/ /
+   / /_  / / __ \/ __  /   
+  / __/ / / / / / /_/ /      
+ /_/   /_/_/ /_/\__,_/  (c) Amore14rn
 ```
      
 
